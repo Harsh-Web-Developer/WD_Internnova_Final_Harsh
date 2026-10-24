@@ -6,7 +6,7 @@ This repository contains the final web development project created for the **6-W
 
 ## 🔗 Live Links
 
-* **Live Website (GitHub Pages):** [https://Harsh-Web-Developer.github.io/WD_Internnova_Final_Harsh/](https://Harsh-Web-Developer.github.io/WD_Internnova_Final_Harsh/)
+* **Live Website (GitHub Pages):** https://wdinternnovafinalharsh.vercel.app/
 * **GitHub Repository:** [https://github.com/Harsh-Web-Developer/WD_Internnova_Final_Harsh](https://github.com/Harsh-Web-Developer/WD_Internnova_Final_Harsh)
 
 ---
